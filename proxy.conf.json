@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://digital.idiotikon.ch",
+    "secure": false
+  }
+}
