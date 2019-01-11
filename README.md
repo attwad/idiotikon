@@ -32,4 +32,4 @@ use `npm start` instead of `ng serve` to proxy calls to `/api` and avoid CORS er
 
 ## Deploy to attwad.github.io/Idiotikon
 
-Build with `ng build --prod  --deployUrl /idiotikon`, then replace current version with what's in `/dist`.
+Build with `ng build --prod  --deploy-url /idiotikon/`, then replace current version with what's in `/dist`.
